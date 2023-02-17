@@ -3,7 +3,7 @@
 This is the code repository for the paper "A Data-Driven Approach for Optimizing Early-Stage Electric Vehicle Charging Station Placement" in Transactions on Industrial Informatics.
 
 ### Reference 
-C. Sun, T. Li and X. Tang, "A Data-Driven Approach for Optimizing Early-Stage Electric Vehicle Charging Station Placement," in IEEE Transactions on Industrial Informatics, doi: 10.1109/TII.2023.3245633.
+C. Sun, T. Li and X. Tang, ["A Data-Driven Approach for Optimizing Early-Stage Electric Vehicle Charging Station Placement,"](https://ieeexplore.ieee.org/document/10045802) in IEEE Transactions on Industrial Informatics, doi: 10.1109/TII.2023.3245633.
 
 ### data
 The POI data and the population data for the city of Haikou are provided. 
